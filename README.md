@@ -1,7 +1,14 @@
 # javascript
 Prácticas de Js
 
- - Wordle en Js.
+My own javascript bootcamp ;-D
+
+TODO list:
+ - Wordle en Js. DONE!
+ - Js inbuilt methods
+ - Study AJAX
+ - ...
+ 
 
  (wordle.png)
  ![imaxe da aplicación](wordle.png)
